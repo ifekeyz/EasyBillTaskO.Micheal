@@ -20,7 +20,8 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ifekeyz/EasyBillTaskO.Micheal```
+   git clone https://github.com/ifekeyz/EasyBillTaskO.Micheal
+```
 2. Navigate into the project directory:
 ```bash
 cd project-directory
@@ -28,8 +29,10 @@ cd project-directory
 
 3. Install dependencies:
 ```bash
-npm install```
+npm install
+```
 
 4. Run the application:
 ```bash
-npm start```
+npm start
+```
